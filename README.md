@@ -1,6 +1,12 @@
 # MovieHub-CLI-System
 MovieHub CLI System is IMDB inspired mainly in displaying movies, series, and such for those media enthusiast or regular people who watch medias.
 
-DISCLAIMER!
-This is only for educational purpose not to publish it publicly. Do not exploit this repo to others.
-This is only for the University's Final Project.
+Proposed Title:
+MovieHub: A CLI-Based Movie Tracking and Watchlist Management System
+
+Description:
+A command-line application that allows users to search movies,
+maintain watchlists, track watched movies, and manage viewing history.
+
+Purpose:
+Academic finals project for Computer Science.
